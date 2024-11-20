@@ -1,2 +1,0 @@
-# ReactProject
-Testing react project
